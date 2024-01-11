@@ -8,7 +8,7 @@ layout: page
 
 Here is **Renxiang Wu (吴仁翔)**.
 
-I am a undergradate majoring in **BME** at Shenzhen University. I I will soon graduate under the supervision of [Prof. Guo Dan](https://bme.szu.edu.cn/20191/0929/75.html) and [Prof. Fei Gao](https://people.ucas.ac.cn/~GAOFEI2). 
+I am a graduate student majoring in **BME** at Shenzhen University. I will soon be graduating under the supervised guidance of [Prof. Guo Dan](https://bme.szu.edu.cn/20191/0929/75.html) and [Prof. Fei Gao](https://people.ucas.ac.cn/~GAOFEI2). 
 <br>
 If you are interested in any aspect of me, I would love to chat and collaborate, please email me at
  - *18810603920[at]163[dot]com*
